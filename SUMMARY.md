@@ -5,4 +5,5 @@
   * [1.1身份的功能](chapter1/11shen-fen-de-gong-neng.md)
   * [1.2我国现代人口管理制度历史沿革](chapter1/12wo-guo-xian-dai-ren-kou-guan-li-zhi-du-li-shi-yan-ge.md)
   * [1.3数字身份概要](chapter1/13shu-zi-shen-fen-gai-yao.md)
+  * [1.4数字身份的可识别性](chapter1/14shu-zi-shen-fen-de-ke-shi-bie-xing.md)
 
