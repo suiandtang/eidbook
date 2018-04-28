@@ -11,14 +11,13 @@
 * [2.eID数字身份定义](chapter2.md)
   * [2.1eID数字身份相关主体](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
     * [2.1.1 eID数字身份签发机构](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
-    * [2.1.2.eID数字身份凭证提供机构（Credential Service Provider,**CSP**）](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
+    * [2.1.2.eID数字身份凭证提供机构（Credential Service Provider,CSP）](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
     * [2.1.3.eID数字身份注册登记机构（RegisterAgent，RA）](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
     * [2.1.4 eID数字身份凭证认证机构\(Credential Authentication Agent,CAA\)](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
-	* [2.1.5 eID数字身份依赖机构（Relying Party ，RP）](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
-	* [2.1.6 申请人](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
-	* [2.1.7 注册用户](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
-	* [2.1.8 声明人](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
-	* [2.1.9 用户](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
-
-
+    * [2.1.5 eID数字身份依赖机构（Relying Party ，RP）](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
+    * [2.1.6 申请人](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
+    * [2.1.7 注册用户](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
+    * [2.1.8 声明人](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
+    * [2.1.9 用户](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
+  * [2.2.    eID数字身份基本概念](chapter2/22-eid-shu-zi-shen-fen-ji-ben-gai-nian.md)
 
