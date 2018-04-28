@@ -1,8 +1,10 @@
 ## 2.1.eID数字身份相关主体
+
 ### 2.1.1.eID数字身份签发机构
+
 * eID数字身份签发机构是指公安部第三研究所承建的“公安部公民网络身份识别系统”。唯一负责管理eID数字身份体系，并签发“公安部公民网络电子身份标识（eID）”。
 
-### 2.1.2.eID数字身份凭证提供机构（Credential Service Provider,CSP）
+### 2.1.2.eID数字身份凭证提供机构（Credential Service Provider,**CSP**）
 
 eLID数字身份凭证提供机构是依据eID数字身份签发机构签发的eID数字身份,
 
