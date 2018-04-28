@@ -9,4 +9,5 @@
   * [1.5我国数字身份发展的突出需求](chapter1/15wo-guo-shu-zi-shen-fen-fa-zhan-de-tu-chu-xu-qiu.md)
   * [1.6数字身份的认证](chapter1/16shu-zi-shen-fen-de-ren-zheng.md)
 * [2.eID数字身份定义](chapter2.md)
+  * [2.1eID数字身份相关主体](chapter2/21eidshu-zi-shen-fen-xiang-guan-zhu-ti.md)
 
