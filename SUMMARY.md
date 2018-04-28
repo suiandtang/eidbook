@@ -22,4 +22,5 @@
   * [2.2.    eID数字身份基本概念](chapter2/22-eid-shu-zi-shen-fen-ji-ben-gai-nian.md)
     * [2.2.1.eID数字身份](chapter2/22-eid-shu-zi-shen-fen-ji-ben-gai-nian/221eidshu-zi-shen-fen.md)
     * [2.2.2.认证因子（Authentication Factor）](chapter2/22-eid-shu-zi-shen-fen-ji-ben-gai-nian/222ren-zheng-yin-zi-ff08-authentication-factor.md)
+    * [2.2.3.eID数字身份认证器\(Authenticator\)](chapter2/22-eid-shu-zi-shen-fen-ji-ben-gai-nian/223eidshu-zi-shen-fen-ren-zheng-566828-authenticator.md)
 
