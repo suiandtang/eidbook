@@ -32,4 +32,5 @@
   * [3.2.个人信息保护原则](chapter3/32ge-ren-xin-xi-bao-hu-yuan-ze.md)
   * [3.3.个人信息收集最小化原则](chapter3/33ge-ren-xin-xi-shou-ji-zui-xiao-hua-yuan-ze.md)
   * [3.4.便利和互操作原则](chapter3/34bian-li-he-hu-cao-zuo-yuan-ze.md)
+  * [3.5.充分告知原则](chapter3/35chong-fen-gao-zhi-yuan-ze.md)
 
