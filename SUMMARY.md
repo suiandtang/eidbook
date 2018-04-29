@@ -51,4 +51,5 @@
     * [6.3.2.eID数字身份凭证生命周期管理](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li.md)
       * [6.3.2.1.绑定](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li/6321bang-ding.md)
       * [6.3.2.2.挂失及补办](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li/6322gua-shi-ji-bu-ban.md)
+      * [6.3.2.3.重置](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li/6323zhong-zhi.md)
 
