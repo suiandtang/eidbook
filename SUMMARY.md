@@ -48,4 +48,5 @@
     * [6.2.3.面签](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji/623mian-qian.md)
   * [6.3.eID数字身份的认证](chapter6/63eidshu-zi-shen-fen-de-ren-zheng.md)
     * [6.3.1.认证过程](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/631ren-zheng-guo-cheng.md)
+    * [6.3.2.eID数字身份凭证生命周期管理](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li.md)
 
