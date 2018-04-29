@@ -26,4 +26,5 @@
     * [2.2.4.eID数字身份凭证](chapter2/22-eid-shu-zi-shen-fen-ji-ben-gai-nian/224eidshu-zi-shen-fen-ping-zheng.md)
     * [2.2.5.eID数字身份认证](chapter2/22-eid-shu-zi-shen-fen-ji-ben-gai-nian/225eidshu-zi-shen-fen-ren-zheng.md)
     * [2.2.6.eID数字身份凭证颁发等级\(CRedentialTssuanceLevel,CIL\)](chapter2/22-eid-shu-zi-shen-fen-ji-ben-gai-nian/226eidshu-zi-shen-fen-ping-zheng-ban-fa-deng-7ea728-credentialtssuancelevel-cil.md)
+    * [2.2.7.eID数字身份凭证认证等级\(Authentication Assurance Level,AAL\)](chapter2/22-eid-shu-zi-shen-fen-ji-ben-gai-nian/227eidshu-zi-shen-fen-ping-zheng-ren-zheng-deng-7ea728-authentication-assurance-level-aal.md)
 
