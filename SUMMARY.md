@@ -35,5 +35,5 @@
   * [3.5.充分告知原则](chapter3/35chong-fen-gao-zhi-yuan-ze.md)
   * [3.6.风险控制原则](chapter3/36feng-xian-kong-zhi-yuan-ze.md)
 * [4.eD数字身份特点](chapter4.md)
-* [5.e数字身份模型简述](chapter5.md)
+* [5.eID数字身份模型简述](chapter5.md)
 
