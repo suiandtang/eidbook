@@ -47,4 +47,5 @@
     * [6.2.2.到场](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji/622dao-chang.md)
     * [6.2.3.面签](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji/623mian-qian.md)
   * [6.3.eID数字身份的认证](chapter6/63eidshu-zi-shen-fen-de-ren-zheng.md)
+    * [6.3.1.认证过程](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/631ren-zheng-guo-cheng.md)
 
