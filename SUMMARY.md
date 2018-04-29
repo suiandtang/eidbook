@@ -63,4 +63,5 @@
     * 8.1.eID数字身份凭证认证等级1\(AAL1\)
 * [8.eID数字身份认证等级\(Authentication Assurance Level,AAL\)](chapter8.md)
   * [8.1.eID数字身份凭证认证等级1\(AAL1\)](chapter8/81eidshu-zi-shen-fen-ping-zheng-ren-zheng-deng-ji-1-aal1.md)
+  * [8.2.eID数字身份凭证认证等级2\(AAL2\)](chapter8/82eidshu-zi-shen-fen-ping-zheng-ren-zheng-deng-ji-2-aal2.md)
 
