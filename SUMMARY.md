@@ -38,4 +38,5 @@
 * [5.eID数字身份模型简述](chapter5.md)
 * [6.eID数字身份服务流程](chapter6.md)
   * [6.1.eID数字身份的签发](chapter6/61eidshu-zi-shen-fen-de-qian-fa.md)
+  * [6.2.eID数字身份的注册登记](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji.md)
 
