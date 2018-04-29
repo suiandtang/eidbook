@@ -53,4 +53,5 @@
       * [6.3.2.2.挂失及补办](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li/6322gua-shi-ji-bu-ban.md)
       * [6.3.2.3.重置](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li/6323zhong-zhi.md)
       * [6.3.2.4.过期](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li/6324guo-qi.md)
+      * [6.3.2.5更新](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li/6325geng-xin.md)
 
