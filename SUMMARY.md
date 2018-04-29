@@ -34,4 +34,5 @@
   * [3.4.便利和互操作原则](chapter3/34bian-li-he-hu-cao-zuo-yuan-ze.md)
   * [3.5.充分告知原则](chapter3/35chong-fen-gao-zhi-yuan-ze.md)
   * [3.6.风险控制原则](chapter3/36feng-xian-kong-zhi-yuan-ze.md)
+* [chapter4](chapter4.md)
 
