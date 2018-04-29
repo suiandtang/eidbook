@@ -40,4 +40,5 @@
   * [6.1.eID数字身份的签发](chapter6/61eidshu-zi-shen-fen-de-qian-fa.md)
   * [6.2.eID数字身份的注册登记](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji.md)
     * [6.2.1.身份证实](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji/621shen-fen-zheng-shi.md)
+      * [6.2.1.1.身份区分](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji/621shen-fen-zheng-shi/6211shen-fen-qu-fen.md)
 
