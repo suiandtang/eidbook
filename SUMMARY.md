@@ -30,4 +30,5 @@
 * [3.eID数字身份服务原则](chapter3.md)
   * [3.1.用户自愿原则](chapter3/31yong-hu-zi-yuan-yuan-ze.md)
   * [3.2.个人信息保护原则](chapter3/32ge-ren-xin-xi-bao-hu-yuan-ze.md)
+  * [3.3.个人信息收集最小化原则](chapter3/33ge-ren-xin-xi-shou-ji-zui-xiao-hua-yuan-ze.md)
 
