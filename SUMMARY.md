@@ -58,4 +58,5 @@
 * [7.eID数字身份凭证颁发等级\(Credential Issue Level,CIL\)](chapter7.md)
   * [7.1.通用要求](chapter7/71tong-yong-yao-qiu.md)
   * [7.2.eID数字身份凭证颁发等级1\(CIL1\)](chapter7/72eidshu-zi-shen-fen-ping-zheng-ban-fa-deng-ji-1-cil1.md)
+  * [7.3.eID数字身份凭证颁发等级2\(CIL2\)](chapter7/73eidshu-zi-shen-fen-ping-zheng-ban-fa-deng-ji-2-cil2.md)
 
