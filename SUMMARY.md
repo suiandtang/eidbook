@@ -56,4 +56,5 @@
       * [6.3.2.5更新](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li/6325geng-xin.md)
       * [6.3.2.6.注销](chapter6/63eidshu-zi-shen-fen-de-ren-zheng/632eidshu-zi-shen-fen-ping-zheng-sheng-ming-zhou-qi-guan-li/6326zhu-xiao.md)
 * [7.eID数字身份凭证颁发等级\(Credential Issue Level,CIL\)](chapter7.md)
+  * [7.1.通用要求](chapter7/71tong-yong-yao-qiu.md)
 
