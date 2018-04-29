@@ -42,4 +42,5 @@
     * [6.2.1.身份证实](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji/621shen-fen-zheng-shi.md)
       * [6.2.1.1.身份区分](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji/621shen-fen-zheng-shi/6211shen-fen-qu-fen.md)
       * [6.2.1.2.身份证明的核验](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji/621shen-fen-zheng-shi/6212shen-fen-zheng-ming-de-he-yan.md)
+      * [6.2.1.3.人证合一认证](chapter6/62eidshu-zi-shen-fen-de-zhu-ce-deng-ji/621shen-fen-zheng-shi/6213ren-zheng-he-yi-ren-zheng.md)
 
